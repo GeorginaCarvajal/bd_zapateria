@@ -12,7 +12,7 @@
             font-family: Arial, sans-serif;
             margin: 0;
             padding: 20px;
-            background-color: #f4f4f4;
+            background-color: purple;
             color: #333;
         }
 
@@ -31,4 +31,5 @@
     <h1>bienvenido a la zapateria la sangileña</h1>
     
 </body>
-</html>
+</html
+
