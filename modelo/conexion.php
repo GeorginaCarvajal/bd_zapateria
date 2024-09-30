@@ -13,7 +13,7 @@ ini_set('display_errors', '1');
     //DEFINE('BD','bd_zapateria');
 
     //Conexion a la BD
-    $conexion = mysqli_connect('localhost', 'root', '',  'bd_zapateria');
+    $conexion = mysqli_connect('localhost', 'root', '',  'zapateria');
 
     //Establecer caracteres para el hosting
     //mysqli_set_charset($conexion, "utf8mb4");
@@ -23,9 +23,9 @@ ini_set('display_errors', '1');
     {
         die("la conexion a la BD fallo: "+ mysqli_error($conexion));
     }
-    else
+    //else
     {
-        die("Conexion exitosa a la BD");
+    //    die("Conexion exitosa a la BD");
     }
 
 
