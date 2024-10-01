@@ -9,12 +9,12 @@
             font-family: Arial, sans-serif;
             margin: 0;
             padding: 20px;
-            background: linear-gradient(white, purple);;
+            background: linear-gradient(white, #a79de9);;
             color: #333;
         }
 
         h1 {
-            color: #2c3e50;
+            color: #120907;
             text-align: center;
         }
 
@@ -35,13 +35,13 @@
         input {
             margin-bottom: 10px;
             padding: 10px;
-            border: 1px solid #ccc;
+            border: 1px solid #292643;
             border-radius: 4px;
         }
 
         button {
             padding: 10px;
-            background-color: #2c3e50;
+            background-color: #292643;
             color: #fff;
             border: none;
             border-radius: 4px;
@@ -49,7 +49,7 @@
         }
 
         button:hover {
-            background-color: #404098;
+            background-color: #625e93;
         }
     </style>
 </head>
